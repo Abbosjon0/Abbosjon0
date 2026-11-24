@@ -1,41 +1,42 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f172a,100:10b981&height=200&section=header&text=Abbosjon%20Anvarov&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%2C%20Telegram%20Bot%20%26%20Backend%20Developer&descSize=18&descAlignY=60&descColor=94a3b8" width="100%" alt="Abbosjon Anvarov Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f172a,100:10b981&height=200&section=header&text=Abbosjon%20Anvarov&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Python%2C%20Telegram%20Bot%20%26%20Backend%20Dasturchi&descSize=18&descAlignY=60&descColor=94a3b8" width="100%" alt="Abbosjon Anvarov Banner" />
 
   <a href="https://abbosjon.cv/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Python+%26+FastAPI+Backend+Developer;Telegram+Bot+%26+Mini+App+Architect;Flutter+%26+Capacitor+Mobile+Developer;Docker+%26+Linux+Server+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Python+%26+Backend+Dasturchi;Telegram+Bot+%26+Mini+App+Ustasi;Kross-Platforma+Mobil+Yechimlar;Docker+%26+Linux+Server+Tizimlari" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 💫 About Me
+### 💫 Men haqimda
 
-Hi! I'm **Abbosjon Anvarov** — a Software, Telegram Bot & Backend Developer based in Uzbekistan (**AASH**). I focus on turning complex ideas into fast, secure, and scalable production software.
+Salom! Men **Abbosjon Anvarov** — O‘zbekistonlik Software, Telegram Bot va Backend dasturchiman (**AASH**). Murakkab g‘oyalarni tezkor, xavfsiz va barqaror ishlaydigan dasturiy mahsulotlarga aylantiraman.
 
-- 🔭 **Telegram Ecosystem:** Building high-load **Telegram Bots** (`Aiogram 3`, `Telethon` / MTProto) and interactive **Telegram Mini Apps** with `Click` & `Payme` payment integrations.
-- ⚡ **Backend & AI APIs:** Architecting asynchronous **FastAPI** services, background workers, and automated AI/media processing pipelines.
-- 📱 **Mobile & Web:** Shipping cross-platform apps with **Flutter**, **Capacitor**, **React**, and **Next.js**.
-- 🐧 **Infrastructure:** Deploying and monitoring resilient **Linux (Ubuntu)** servers with **Docker**, **Nginx**, and **Cloudflare**.
-- 🌐 **Portfolio & Case Studies:** [**abbosjon.cv**](https://abbosjon.cv/)
+- 🔭 **Telegram Ekotizimi:** Yuqori yuklamali **Telegram Botlar** (`Aiogram 3`, `Telethon` / MTProto) hamda `Click` va `Payme` to‘lov tizimlari ulangan interaktiv **Telegram Mini Applar** ishlab chiqaman.
+- ⚡ **Backend & AI API’lar:** Asinxron **FastAPI** mikroxizmatlari, background workerlar hamda media va sun’iy intellekt bilan ishlovchi API’lar quraman.
+- 📱 **Mobil & Web Ilovalar:** **Flutter**, **Capacitor**, **React** va **Next.js** yordamida kross-platforma mobil va veb ilovalar yarataman.
+- 🐧 **Server & DevOps:** **Linux (Ubuntu)** serverlarini sozlash, **Docker**, **Nginx** va **Cloudflare** orqali servislarni 24/7 barqaror boshqaraman.
+- 🌐 **Portfolio & Interaktiv Terminal:** [**abbosjon.cv**](https://abbosjon.cv/)
 
 ```python
-class Developer:
-    name = "Abbosjon Anvarov"
-    company = "AASH"
-    focus = ["Backend", "Telegram Bots & Mini Apps", "Mobile"]
-    stack = {
-        "core": ["Python", "FastAPI", "Aiogram", "Telethon"],
-        "mobile_web": ["Flutter", "Capacitor", "React", "Next.js"],
+class Dasturchi:
+    ism = "Abbosjon Anvarov"
+    kompaniya = "AASH"
+    yonalishlar = ["Backend", "Telegram Botlar & Mini App", "Mobil Ilovalar"]
+    stek = {
+        "asosiy": ["Python", "FastAPI", "Aiogram", "Telethon"],
+        "mobil_web": ["Flutter", "Capacitor", "React", "Next.js"],
         "infra": ["PostgreSQL", "Redis", "Docker", "Linux"],
     }
 
-    def deliver(self) -> str:
-        return "Clean architecture, security, and 24/7 reliability."
+    def natija(self) -> str:
+        # Har doim toza arxitektura va tezkor kod
+        return "Yuqori sifat, xavfsizlik va 24/7 barqarorlik!"
 ```
 
 ---
 
-### 🌐 Socials
+### 🌐 Aloqa va Tarmoqlar
 
 <p align="left">
   <a href="https://abbosjon.cv/" target="_blank">
@@ -48,16 +49,16 @@ class Developer:
     <img src="https://img.shields.io/badge/Instagram-@aash.dev.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:AbbosjonAnvarov001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Bog'lanish-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Abbosjon0&color=10b981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abbosjon0&color=10b981&style=for-the-badge&label=KO%27RISHLAR" alt="Profil ko'rishlari" />
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Texnologiyalar & Asboblar
 
-**Backend & Telegram Ecosystem**
+**Backend & Telegram Ekotizimi**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -66,7 +67,7 @@ class Developer:
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-**Frontend & Cross-Platform Mobile**
+**Frontend & Kross-Platforma Mobil**
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -81,7 +82,7 @@ class Developer:
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android" />
 </p>
 
-**Databases, Cloud & DevOps**
+**Ma’lumotlar Bazasi, Bulut & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -97,18 +98,18 @@ class Developer:
 
 ---
 
-### 🏆 Highlights & Credentials
+### 🏆 Yutuqlar va Natijalar
 
-- 🚀 **20+ Delivered Systems** serving **100k+ Telegram bot users** across e-commerce automation, MTProto parsers, AI media APIs, and mobile apps
-- 🏅 **UN FAO & OSCE Hack4DigitalVillages** — 4th Place Laureate (*Robo Group*)
-- 🤖 **Five Million AI Leaders Initiative** — Certified by Dubai Future Foundation & Ministry of Digital Technologies (2026)
-- 🎓 **Google & Duke University Certified** — Python, Google Cloud Core Infrastructure & Data Science Math Skills
+- 🚀 **20+ Yakunlangan Loyiha** va **100k+ Bot Foydalanuvchilari** — e-tijorat botlari, MTProto parserlar, AI media API’lar va mobil ilovalar
+- 🏅 **BMT FAO & YeXHT Hack4DigitalVillages** — Xalqaro hakatonda 4-o‘rin sovrindori (*Robo Group*)
+- 🤖 **Five Million AI Leaders Initiative** — Dubai Future Foundation va Raqamli Texnologiyalar Vazirligi sertifikati (2026)
+- 🎓 **Google & Duke University Sertifikatlari** — Python, Google Cloud Core Infrastructure va Data Science Math Skills
 
-> *Note: Client and production repositories are kept private for security and NDA compliance. Explore live case studies and architecture previews at [**abbosjon.cv**](https://abbosjon.cv/).*
+> *Eslatma: Mijozlar va ishlab chiqarishdagi loyihalar xavfsizlik hamda maxfiylik sababli yopiq (private) saqlanadi. Batafsil arxitektura va loyihalar bilan [**abbosjon.cv**](https://abbosjon.cv/) saytida tanishishingiz mumkin.*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistikasi
 
 <div align="center">
   <a href="https://github.com/Abbosjon0">
