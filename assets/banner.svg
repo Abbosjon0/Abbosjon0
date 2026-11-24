@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Abbosjon Anvarov — Python, Telegram Bot &amp; Backend Dasturchi">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="55%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#09151c"/>
+    </linearGradient>
+    <radialGradient id="glowEmerald" cx="82%" cy="18%" r="55%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="15%" cy="85%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="55%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.16"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.22"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="1" opacity="0.45"/>
+    </pattern>
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="1200" height="290" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Base & Grid -->
+    <rect width="1200" height="290" fill="url(#bgGrad)"/>
+    <rect width="1200" height="290" fill="url(#grid)"/>
+    <rect width="1200" height="290" fill="url(#glowEmerald)"/>
+    <rect width="1200" height="290" fill="url(#glowCyan)"/>
+
+    <!-- Bottom Decorative Wave -->
+    <path d="M0,248 C240,210 460,275 740,236 C960,206 1090,238 1200,224 L1200,290 L0,290 Z" fill="url(#waveGrad)"/>
+    <path d="M0,248 C240,210 460,275 740,236 C960,206 1090,238 1200,224" fill="none" stroke="url(#accentLine)" stroke-width="2" opacity="0.75"/>
+
+    <!-- Top Status Pill -->
+    <rect x="52" y="34" width="250" height="32" rx="16" fill="#0f172a" stroke="#10b981" stroke-opacity="0.55" stroke-width="1"/>
+    <circle cx="72" cy="50" r="4.5" fill="#10b981"/>
+    <text x="86" y="55" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="600">&lt;Abbosjon /&gt; • AASH • UZ</text>
+
+    <!-- Main Name & Subtitle -->
+    <text x="52" y="124" fill="#ffffff" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'DejaVu Sans', sans-serif" font-size="48" font-weight="800" letter-spacing="-0.5">Abbosjon Anvarov</text>
+    <text x="52" y="164" fill="#94a3b8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, 'DejaVu Sans', sans-serif" font-size="21" font-weight="500">Python, Telegram Bot &amp; Backend Dasturchi</text>
+
+    <!-- Accent Divider -->
+    <rect x="52" y="185" width="140" height="3" rx="1.5" fill="url(#accentLine)"/>
+
+    <!-- Focus Chips -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" font-weight="600">
+      <rect x="52" y="210" width="166" height="32" rx="8" fill="#0b1322" stroke="#1e293b" stroke-width="1"/>
+      <text x="135" y="230" text-anchor="middle" fill="#38bdf8">Aiogram &amp; Telethon</text>
+
+      <rect x="230" y="210" width="146" height="32" rx="8" fill="#0b1322" stroke="#1e293b" stroke-width="1"/>
+      <text x="303" y="230" text-anchor="middle" fill="#10b981">FastAPI Backend</text>
+
+      <rect x="388" y="210" width="174" height="32" rx="8" fill="#0b1322" stroke="#1e293b" stroke-width="1"/>
+      <text x="475" y="230" text-anchor="middle" fill="#e2e8f0">Flutter &amp; Capacitor</text>
+
+      <rect x="574" y="210" width="142" height="32" rx="8" fill="#0b1322" stroke="#1e293b" stroke-width="1"/>
+      <text x="645" y="230" text-anchor="middle" fill="#a7f3d0">Docker &amp; Linux</text>
+    </g>
+
+    <!-- Right Terminal Card -->
+    <rect x="780" y="36" width="368" height="214" rx="14" fill="#0b1120" fill-opacity="0.92" stroke="#1e293b" stroke-width="1.2"/>
+    <rect x="780" y="36" width="368" height="34" rx="14" fill="#111a2e"/>
+    <rect x="780" y="56" width="368" height="14" fill="#111a2e"/>
+    <line x1="780" y1="70" x2="1148" y2="70" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="804" cy="53" r="5" fill="#ef4444"/>
+    <circle cx="822" cy="53" r="5" fill="#f59e0b"/>
+    <circle cx="840" cy="53" r="5" fill="#10b981"/>
+    <text x="862" y="57" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'DejaVu Sans Mono', monospace" font-size="12">abbosjon_dev.py</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5">
+      <text x="802" y="98" fill="#38bdf8">class</text>
+      <text x="852" y="98" fill="#f8fafc">Dasturchi:</text>
+
+      <text x="818" y="124" fill="#94a3b8">ism</text>
+      <text x="854" y="124" fill="#64748b">=</text>
+      <text x="870" y="124" fill="#10b981">"Abbosjon"</text>
+
+      <text x="818" y="150" fill="#94a3b8">fokus</text>
+      <text x="868" y="150" fill="#64748b">=</text>
+      <text x="884" y="150" fill="#e2e8f0">["Bots", "API", "App"]</text>
+
+      <text x="818" y="176" fill="#94a3b8">sayt</text>
+      <text x="860" y="176" fill="#64748b">=</text>
+      <text x="876" y="176" fill="#38bdf8">"abbosjon.cv"</text>
+
+      <text x="818" y="202" fill="#94a3b8">holat</text>
+      <text x="868" y="202" fill="#64748b">=</text>
+      <text x="884" y="202" fill="#a7f3d0">"24/7 Production"</text>
+
+      <text x="802" y="232" fill="#64748b"># Toza kod &amp; Yuqori natija</text>
+    </g>
+
+    <!-- Outer Border -->
+    <rect x="1" y="1" width="1198" height="288" rx="17" fill="none" stroke="#1e293b" stroke-width="1.5"/>
+  </g>
+</svg>

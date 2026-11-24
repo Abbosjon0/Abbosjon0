@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f172a,100:10b981&height=200&section=header&text=Abbosjon%20Anvarov&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Python%2C%20Telegram%20Bot%20%26%20Backend%20Dasturchi&descSize=18&descAlignY=60&descColor=94a3b8" width="100%" alt="Abbosjon Anvarov Banner" />
-
+<p align="center">
   <a href="https://abbosjon.cv/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Python+%26+Backend+Dasturchi;Telegram+Bot+%26+Mini+App+Ustasi;Kross-Platforma+Mobil+Yechimlar;Docker+%26+Linux+Server+Tizimlari" alt="Typing SVG" />
+    <img src="./assets/banner.svg" width="100%" alt="Abbosjon Anvarov — Python, Telegram Bot & Backend Dasturchi" />
   </a>
-</div>
-
----
+</p>
 
 ### 💫 Men haqimda
 
@@ -17,22 +13,6 @@ Salom! Men **Abbosjon Anvarov** — O‘zbekistonlik Software, Telegram Bot va B
 - 📱 **Mobil & Web Ilovalar:** **Flutter**, **Capacitor**, **React** va **Next.js** yordamida kross-platforma mobil va veb ilovalar yarataman.
 - 🐧 **Server & DevOps:** **Linux (Ubuntu)** serverlarini sozlash, **Docker**, **Nginx** va **Cloudflare** orqali servislarni 24/7 barqaror boshqaraman.
 - 🌐 **Portfolio & Interaktiv Terminal:** [**abbosjon.cv**](https://abbosjon.cv/)
-
-```python
-class Dasturchi:
-    ism = "Abbosjon Anvarov"
-    kompaniya = "AASH"
-    yonalishlar = ["Backend", "Telegram Botlar & Mini App", "Mobil Ilovalar"]
-    stek = {
-        "asosiy": ["Python", "FastAPI", "Aiogram", "Telethon"],
-        "mobil_web": ["Flutter", "Capacitor", "React", "Next.js"],
-        "infra": ["PostgreSQL", "Redis", "Docker", "Linux"],
-    }
-
-    def natija(self) -> str:
-        # Har doim toza arxitektura va tezkor kod
-        return "Yuqori sifat, xavfsizlik va 24/7 barqarorlik!"
-```
 
 ---
 
@@ -121,4 +101,6 @@ class Dasturchi:
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:0f172a,100:090d16&height=100&section=footer" width="100%" alt="Footer Wave" />
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Abbosjon Anvarov — abbosjon.cv" />
+</p>
